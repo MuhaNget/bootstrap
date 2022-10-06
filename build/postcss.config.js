@@ -22,4 +22,5 @@ function greeting(greet){
   console.log(`Hi ${greet}`);
 }
 
-greeting('Good Morning!!')
+greeting('Good Morning!!');
+greeting('Good day!!');
