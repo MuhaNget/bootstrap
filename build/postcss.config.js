@@ -17,3 +17,9 @@ module.exports = context => {
     }
   }
 }
+
+function greeting(greet){
+  console.log(`Hi ${greet}`);
+}
+
+greeting('Good Morning!!')
